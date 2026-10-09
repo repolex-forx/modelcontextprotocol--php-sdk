@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/php-sdk/commit/b648df0216f66fc0b9e6246dabde224c54037c8c",
       "git:hexsha": "b648df0216f66fc0b9e6246dabde224c54037c8c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
