@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/php-sdk/commit/b648df0216f66fc0b9e6246dabde224c54037c8c",
       "git:hexsha": "b648df0216f66fc0b9e6246dabde224c54037c8c",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-09T10:11:08.918092+00:00"
     },
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/php-sdk/commit/470237ad0b42ac3a4408e5a34a4d7a53a3bccd4e",
