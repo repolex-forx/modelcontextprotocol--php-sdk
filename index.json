@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "php-sdk",
+  "versions": [
+    {
+      "commit": "b648df0216f66fc0b9e6246dabde224c54037c8c",
+      "tag": "main",
+      "parsed_at": "2026-10-09T10:11:08.918617+00:00"
+    }
+  ]
+}
